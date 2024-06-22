@@ -1,0 +1,38 @@
+.user {
+    background-color: #222; /* Dark background */
+    color: #fff; /* White text color */
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    width: 80%;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .avatar {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+  }
+  
+  .stats {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+  }
+  
+  h2 {
+    margin: 10px 0;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  h4 {
+    margin: 5px 0;
+  }
+  
